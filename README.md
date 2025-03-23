@@ -18,14 +18,9 @@ I am a Computer Science major with a passion for cybersecurity and all things co
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
-
-
-
-
 ### Im Currently Learning 💡
+
+- Front end development
 
 <div display="flex">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -40,6 +35,16 @@ I am a Computer Science major with a passion for cybersecurity and all things co
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+</div>
+
+
+### Essentials 🙏
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"/>
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------
