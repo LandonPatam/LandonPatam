@@ -1,5 +1,7 @@
 ## ⚙️ Hi I'm Landon Patam ⚙️
 
+I am a Computer Science major with a passion for cybersecurity and all things coding related!
+
 **I've Worked With**
 
 <div display="flex">
