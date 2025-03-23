@@ -13,7 +13,7 @@
   
 </div>
 
-###💡 Im Currently Learning 💡
+### Im Currently Learning 💡
 
 <div display="flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 </div>
 
-###👨‍💻 My Favorite Development Tools 👨‍💻
+### My Favorite Development Tools 👨‍💻
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </div>
 
-###📞 Contact Me! 📞
+### Contact Me! 📞
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/landon-patam-93b875314/">
